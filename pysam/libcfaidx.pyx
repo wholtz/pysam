@@ -1,5 +1,4 @@
 # cython: embedsignature=True
-# cython: profile=True
 ###############################################################################
 ###############################################################################
 # Cython wrapper for SAM/BAM/CRAM files based on htslib
